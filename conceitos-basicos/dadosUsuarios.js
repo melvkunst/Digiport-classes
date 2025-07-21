@@ -14,3 +14,8 @@ console.log('tem ', altura, ' e seu IMC é de', imc);
 
 console.log(nome.split(" ")[0].toLocaleLowerCase(), nome.split(" ")[2].toLocaleLowerCase(), 'nasceu em ', anoNascimento)
 
+
+//resultado da aula
+console.log(`${nome} tem ${idade} anos, pesa ${peso} kg`);
+console.log(`tem ${altura} de altura e seu IMC é de ${imc}`);
+console.log(`${nome.split(" ")[0].toLocaleLowerCase()} ${nome.split(" ")[2].toLocaleLowerCase()} nasceu em ${anoNascimento}`);
