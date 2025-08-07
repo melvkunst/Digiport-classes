@@ -1,0 +1,8 @@
+const alunas = [
+    {nome: "Mel", sorvete: "chocomenta"},
+    {nome: "Ana", sorvete: "baunilha"},
+]
+
+for(const aluna of alunas){
+    console.log(`Nome: ${aluna.nome} | Sabor favorito: ${aluna.sorvete}`);
+}
